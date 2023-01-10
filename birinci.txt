@@ -1,1 +1,3 @@
 master 2. commit için bu satırı yazıyorum 
+
+master da bır commıt daha atacagız 
